@@ -16,7 +16,7 @@ Este é um projeto de recriação do clássico jogo da cobrinha (Snake Game) usa
 
 ## Demonstração
 
-[Veja o jogo da cobrinha em ação!]([https://seu-usuario.github.io/jogo-da-cobrinha/](https://jogo-da-cobrinha-sage.vercel.app/))
+[Veja o jogo da cobrinha em ação!](https://jogo-da-cobrinha-sage.vercel.app/)
 
 ## Como Contribuir
 
